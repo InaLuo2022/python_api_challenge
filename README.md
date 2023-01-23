@@ -1,7 +1,7 @@
 # python_api_challenge
 ## Part 1: WeatherPy
-### Create Plots to Showcase the Relationship Between Weather Variables and Latitude
-### Compute Linear Regression for Each Relationship
+ - Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+ - Compute Linear Regression for Each Relationship
 
 ## Summary:
 ### Temperature vs. Latitude
